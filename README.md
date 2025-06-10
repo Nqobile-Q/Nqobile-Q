@@ -1,4 +1,3 @@
-![GitHub Snake light](https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake.svg?speed=10)
+![GitHub Snake dark](https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake-dark.svg?palette=github-dark&speed=10&color_snake=#00ffff&color_dots=#001f3f,#0074D9,#7FDBFF#gh-dark-mode-only)
 
-![GitHub Snake dark](https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake-dark.svg?palette=github-dark&speed=10#gh-dark-mode-only)
 
