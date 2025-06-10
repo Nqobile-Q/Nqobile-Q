@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # runs daily
   workflow_dispatch:
 
 permissions:
-  contents: write  # This is required to allow pushing to a branch
+  contents: write  # 👈 THIS line is critical to push to output branch
 
 jobs:
   generate:
@@ -27,4 +27,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
