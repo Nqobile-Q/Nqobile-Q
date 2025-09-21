@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x150/FAC8D8/000000?text=NqobileDevSec+💻" alt="Banner" />
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-cef0-622f-a432-184db7dfd899/raw?se=2025-09-21T13%3A00%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=3cfd4588-c05a-598a-a7ab-2a127474f148&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-21T11%3A39%3A41Z&ske=2025-09-22T11%3A39%3A41Z&sks=b&skv=2024-08-04&sig=VOdZ3v0iSBQl9FIcUVay1QTV8npsYf7hgWeQsf%2Bpol4%3Dtext=NqobileDevSec+💻" alt="Banner" />
 </p>
 
 # Hi, I'm Nqobile 👋
-💻 Web Developer  
+💻 Web Developer / frontend developer 
 📫 Contact: [nqobiledevsec@gmail.com](mailto:nqobiledevsec@gmail.com)  
 🌐 Portfolio: [https://nqobile-q.github.io/Nqobile.Dev/](https://nqobile-q.github.io/Nqobile.Dev/)  
 
