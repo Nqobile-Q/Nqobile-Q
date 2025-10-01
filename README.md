@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-FAC8D8?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FAC8D8?style=for-the-badge&logo=python&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-FAC8D8?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![Java Script](https://img.shields.io/badge/Java Script-FAC8D8?style=for-the-badge&logo=Java Script&logoColor=white)
 ---
 
 ### 📂 Projects
