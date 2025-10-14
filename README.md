@@ -1,60 +1,77 @@
 ![GitHub Snake dark](https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake-dark.svg?palette=github-dark&speed=50&color_snake=#00ffff&color_dots=#001f3f,#0074D9,#7FDBFF#gh-dark-mode-only)
 
-# Hi, I'm Nqobile 👋
-💻 **Frontend Web Developer | Python Enthusiast**  
-📫 Contact: [nqobiledevsec@gmail.com](mailto:nqobiledevsec@gmail.com)  
-🌐 Portfolio: [https://nqobile-q.github.io/Nqobile.Dev/](https://nqobile-q.github.io/Nqobile.Dev/)  
+# <p align="center">Hi, I'm Nqobile 👋</p>
+<p align="center">
+  💻 Frontend Web Developer | Python Enthusiast
+</p>
+<p align="center">
+  📫 <a href="mailto:nqobiledevsec@gmail.com">nqobiledevsec@gmail.com</a> | 🌐 <a href="https://nqobile-q.github.io/Nqobile.Dev/">Portfolio</a>
+</p>
 
 ---
 
 ## 🎨 Skills
-<div>
-  <img src="https://img.shields.io/badge/HTML5-FAC8D8?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FAC8D8?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FAC8D8?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-FAC8D8?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FAC8D8?style=for-the-badge&logo=javascript&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 Projects
-| Project | Description | Demo |
-|---------|-------------|------|
-| **Cybersecurity Awareness Website** | Responsive site educating users on cybersecurity best practices. Built with HTML, CSS & JS | [Live Demo](https://yourdemo.com) |
-| **Portfolio Website** | Personal portfolio showcasing my web projects | [Live](https://nqobilenkosi.github.io/portfolio/) |
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Demo</th>
+    </tr>
+    <tr>
+      <td><b>Cybersecurity Awareness Website</b></td>
+      <td>Responsive site educating users on cybersecurity best practices. Built with HTML, CSS & JS</td>
+      <td><a href="https://yourdemo.com">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><b>Portfolio Website</b></td>
+      <td>Personal portfolio showcasing my web projects</td>
+      <td><a href="https://nqobilenkosi.github.io/portfolio/">Live</a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🐍 GitHub Contributions
-![GitHub Snake](https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake-dark.svg)
-
-*or use the stable contribution graph:*  
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Nqobile-Q&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
----
-
-## 📊 GitHub Stats
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nqobile-Q&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nqobile-Q&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake-dark.svg" alt="GitHub Snake" width="600"/>
+</p>
 
 ---
 
 ## 💬 Connect with Me
-<div>
-  <a href="mailto:nqobiledevsec@gmail.com"><img src="https://img.shields.io/badge/Email-nqobiledevsec@gmail.com-FAC8D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nqobile-q/"><img src="https://img.shields.io/badge/LinkedIn-Nqobile-Q-FAC8D8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Nqobile-Q"><img src="https://img.shields.io/badge/GitHub-Nqobile-Q-FAC8D8?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+<p align="center">
+  <a href="mailto:nqobiledevsec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nqobiledevsec@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nqobile-q/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nqobile-Q-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nqobile-Q">
+    <img src="https://img.shields.io/badge/GitHub-Nqobile-Q-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Facts
-- 🌱 Currently learning advanced Python and modern web development frameworks  
-- 🎯 Passionate about building practical projects that solve real-world problems  
-- 🚀 Always exploring new technologies and improving my skills  
+<p align="center">
+  🌱 Currently learning advanced Python & modern web frameworks <br>
+  🎯 Passionate about building practical projects that solve real-world problems <br>
+  🚀 Always exploring new tech and improving my skills
+</p>
 
 ---
 
