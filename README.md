@@ -5,12 +5,12 @@
   💻 Frontend Web Developer | Python Enthusiast
 </p>
 <p align="center">
-  📫 <a href="mailto:nqobiledevsec@gmail.com">nqobiledevsec@gmail.com</a> | 🌐 <a href="https://nqobile-q.github.io/Nqobile.Dev/">Portfolio</a>
+  📫 <a href="mailto:nqobiledevsec@gmail.com" style="text-decoration:none; color:#fff; background:#FF6347; padding:5px 10px; border-radius:5px;">Email Me</a> | 🌐 <a href="https://nqobile-q.github.io/Nqobile.Dev/" style="text-decoration:none; color:#fff; background:#1E90FF; padding:5px 10px; border-radius:5px;">Portfolio</a>
 </p>
 
 ---
 
-## <p align="center" style="background:#00ffff; padding:5px; border-radius:10px;">🎨 Skills</p>
+## <p align="center" style="background:linear-gradient(90deg,#00c6ff,#0072ff); padding:7px; border-radius:12px; color:white;">🎨 Skills</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +21,7 @@
 
 ---
 
-## <p align="center" style="background:#FF69B4; padding:5px; border-radius:10px;">📂 Projects</p>
+## <p align="center" style="background:linear-gradient(90deg,#ff7e5f,#feb47b); padding:7px; border-radius:12px; color:white;">📂 Projects</p>
 <div align="center">
   <table>
     <tr>
@@ -32,46 +32,37 @@
     <tr>
       <td><b>Cybersecurity Awareness Website</b></td>
       <td>Responsive site educating users on cybersecurity best practices. Built with HTML, CSS & JS</td>
-      <td><a href="https://yourdemo.com">Live Demo</a></td>
+      <td><a href="https://yourdemo.com" style="text-decoration:none; color:#fff; background:#FF6347; padding:3px 8px; border-radius:5px;">Live Demo</a></td>
     </tr>
     <tr>
       <td><b>Portfolio Website</b></td>
       <td>Personal portfolio showcasing my web projects</td>
-      <td><a href="https://nqobilenkosi.github.io/portfolio/">Live</a></td>
+      <td><a href="https://nqobilenkosi.github.io/portfolio/" style="text-decoration:none; color:#fff; background:#1E90FF; padding:3px 8px; border-radius:5px;">Live</a></td>
     </tr>
   </table>
 </div>
 
 ---
 
-## <p align="center" style="background:#7FFFD4; padding:5px; border-radius:10px;">🐍 GitHub Contributions</p>
+## <p align="center" style="background:linear-gradient(90deg,#7f00ff,#e100ff); padding:7px; border-radius:12px; color:white;">🐍 GitHub Contributions</p>
 <p align="center">
   <img src="https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake-dark.svg" alt="GitHub Snake" width="600"/>
 </p>
 
 ---
 
-## <p align="center" style="background:#FFA500; padding:5px; border-radius:10px;">💬 Connect with Me</p>
+## <p align="center" style="background:linear-gradient(90deg,#00ff7f,#00bfff); padding:7px; border-radius:12px; color:white;">💬 Connect with Me</p>
 <p align="center">
-  <a href="mailto:nqobiledevsec@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nqobiledevsec@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nqobile-q/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nqobile-Q-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nqobile-Q">
-    <img src="https://img.shields.io/badge/GitHub-Nqobile-Q-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:nqobiledevsec@gmail.com" style="text-decoration:none; color:white; background:#FF4500; padding:5px 12px; border-radius:8px; margin:2px;">Email</a>
+  <a href="https://www.linkedin.com/in/nqobile-q/" style="text-decoration:none; color:white; background:#0072b1; padding:5px 12px; border-radius:8px; margin:2px;">LinkedIn</a>
+  <a href="https://github.com/Nqobile-Q" style="text-decoration:none; color:white; background:#333; padding:5px 12px; border-radius:8px; margin:2px;">GitHub</a>
 </p>
 
 ---
 
-## <p align="center" style="background:#BA55D3; padding:5px; border-radius:10px;">⚡ Fun Facts</p>
+## <p align="center" style="background:linear-gradient(90deg,#f7971e,#ffd200); padding:7px; border-radius:12px; color:white;">⚡ Fun Facts</p>
 <p align="center">
   🌱 Currently learning advanced Python & modern web frameworks <br>
   🎯 Passionate about building practical projects that solve real-world problems <br>
   🚀 Always exploring new tech and improving my skills
 </p>
-
----
-
