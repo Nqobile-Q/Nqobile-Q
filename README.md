@@ -10,7 +10,7 @@
 
 ---
 
-## 🎨 Skills
+## <p align="center" style="background:#00ffff; padding:5px; border-radius:10px;">🎨 Skills</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 📂 Projects
+## <p align="center" style="background:#FF69B4; padding:5px; border-radius:10px;">📂 Projects</p>
 <div align="center">
   <table>
     <tr>
@@ -44,14 +44,14 @@
 
 ---
 
-## 🐍 GitHub Contributions
+## <p align="center" style="background:#7FFFD4; padding:5px; border-radius:10px;">🐍 GitHub Contributions</p>
 <p align="center">
   <img src="https://github.com/Nqobile-Q/Nqobile-Q/blob/output/github-snake-dark.svg" alt="GitHub Snake" width="600"/>
 </p>
 
 ---
 
-## 💬 Connect with Me
+## <p align="center" style="background:#FFA500; padding:5px; border-radius:10px;">💬 Connect with Me</p>
 <p align="center">
   <a href="mailto:nqobiledevsec@gmail.com">
     <img src="https://img.shields.io/badge/Email-nqobiledevsec@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## ⚡ Fun Facts
+## <p align="center" style="background:#BA55D3; padding:5px; border-radius:10px;">⚡ Fun Facts</p>
 <p align="center">
   🌱 Currently learning advanced Python & modern web frameworks <br>
   🎯 Passionate about building practical projects that solve real-world problems <br>
