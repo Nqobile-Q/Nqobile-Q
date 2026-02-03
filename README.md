@@ -64,7 +64,7 @@
 
 ## <p align="center" style="background:linear-gradient(90deg,#f7971e,#ffd200); padding:10px; border-radius:15px; color:white;">⚡ Fun Facts</p>
 <p align="center">
-  🌱 Currently learning advanced Python & modern web frameworks <br>
+  🌱 ⚡ Zoho CRM + Deluge for automation, Python for logic, and HTML/CSS/JavaScript for the front end, I enjoy connecting it all. <br>
   🎯 Passionate about building practical projects that solve real-world problems <br>
   🚀 Always exploring new tech and improving my skills
 </p>
