@@ -2,7 +2,7 @@
 
 # <p align="center">Hi, I'm Nqobile 👋</p>
 <p align="center">
-  💻 Frontend Web Developerment | Python and Security engineer enthusiast
+  💻 Frontend Web Developerment | Python, Zoho developer (Deluge) and Security engineer enthusiast
 </p>
 <p align="center">
   📫 <a href="mailto:nqobiledevsec@gmail.com" style="text-decoration:none; color:#fff; background:#FF6347; padding:6px 14px; border-radius:10px; transition: all 0.3s;">Email Me</a> 
